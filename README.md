@@ -14,8 +14,7 @@ Atari ST et le principe de l'Overscan : relecture et mise en page d'un article s
 Programmation de Menu et Compilation sur Atari ST (Dossier Vintage) : article sur la programmation en Assembleur 68k et en GFA-BASIC sur Atari ST
 
 * [Programmez! n°209](https://www.programmez.com/magazine/programmez-209-pdf) (juil. 2017) <br>
-** Gamme de l’ATARI ST : dossier spécial été avec un article sur la gamme de l'Atari ST : je vous dis tout sur cette machine familiale et emblématique des années 80
-** Article Oric 1 & Oric Atmos de Mickaël Pointier 
+Gamme de l’ATARI ST : dossier spécial été avec un article sur la gamme de l'Atari ST : je vous dis tout sur cette machine familiale et emblématique des années 80 et article Oric 1 & Oric Atmos de Mickaël Pointier 
 
 * [Programmez! n°221](https://www.programmez.com/magazine/programmez-221-pdf) (sept. 2018) <br>
 Article sur le graphisme sur ATARI ST (Dossier Vintage) : article qui décrit le fonctionnement de l'affichage d'un Atari ST et surtout qui vous explique comment placer des pixels en assembleur 68K
